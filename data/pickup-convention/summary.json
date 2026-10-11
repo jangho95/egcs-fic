@@ -1,0 +1,1 @@
+{"exact_tick_denominator":80,"floors":[3,4,5,6],"states":19656,"same_pairs":69444,"mixed_pairs":264060,"known_count_alphabet":[0,1,3],"initial_direction":"up","initial_motion":"stationary","door_states":["closed","open"],"release_ticks":[0,77],"failures":0,"examples":[{"k4":1,"A_seconds":26.13,"B_seconds":25.65},{"k4":3,"A_seconds":27.57,"B_seconds":25.65}]}

@@ -1,0 +1,1 @@
+{"seed":86000,"auxiliary":0,"episodes":3600,"updates":389794,"transitions":1560175,"selected_episode":0,"selected_validation_awt":22.759858534777972,"warmup_episodes":90,"warmup_updates":10077,"warmup_samples":40435,"warmup_seconds":5.2834016419999985,"training_seconds":408.120937115,"validation_seconds":23.28613699400001,"failed_warmup_episodes":0,"failed_training_episodes":0}

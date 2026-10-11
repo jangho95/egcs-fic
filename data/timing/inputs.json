@@ -1,0 +1,305 @@
+{
+  "finished": true,
+  "sources": [
+    {
+      "path": "data/timing/inputs/f8c2r10.jsonl.gz",
+      "rows": 222
+    },
+    {
+      "path": "data/timing/inputs/f8c2r15.jsonl.gz",
+      "rows": 319
+    },
+    {
+      "path": "data/timing/inputs/f8c2r20.jsonl.gz",
+      "rows": 342
+    },
+    {
+      "path": "data/timing/inputs/f8c2r25.jsonl.gz",
+      "rows": 389
+    },
+    {
+      "path": "data/timing/inputs/f8c2r30.jsonl.gz",
+      "rows": 391
+    },
+    {
+      "path": "data/timing/inputs/f8c3r10.jsonl.gz",
+      "rows": 230
+    },
+    {
+      "path": "data/timing/inputs/f8c3r15.jsonl.gz",
+      "rows": 318
+    },
+    {
+      "path": "data/timing/inputs/f8c3r20.jsonl.gz",
+      "rows": 424
+    },
+    {
+      "path": "data/timing/inputs/f8c3r25.jsonl.gz",
+      "rows": 447
+    },
+    {
+      "path": "data/timing/inputs/f8c3r30.jsonl.gz",
+      "rows": 494
+    },
+    {
+      "path": "data/timing/inputs/f8c4r10.jsonl.gz",
+      "rows": 241
+    },
+    {
+      "path": "data/timing/inputs/f8c4r15.jsonl.gz",
+      "rows": 339
+    },
+    {
+      "path": "data/timing/inputs/f8c4r20.jsonl.gz",
+      "rows": 414
+    },
+    {
+      "path": "data/timing/inputs/f8c4r25.jsonl.gz",
+      "rows": 518
+    },
+    {
+      "path": "data/timing/inputs/f8c4r30.jsonl.gz",
+      "rows": 569
+    },
+    {
+      "path": "data/timing/inputs/f8c5r10.jsonl.gz",
+      "rows": 237
+    },
+    {
+      "path": "data/timing/inputs/f8c5r15.jsonl.gz",
+      "rows": 369
+    },
+    {
+      "path": "data/timing/inputs/f8c5r20.jsonl.gz",
+      "rows": 479
+    },
+    {
+      "path": "data/timing/inputs/f8c5r25.jsonl.gz",
+      "rows": 554
+    },
+    {
+      "path": "data/timing/inputs/f8c5r30.jsonl.gz",
+      "rows": 597
+    },
+    {
+      "path": "data/timing/inputs/f8c6r10.jsonl.gz",
+      "rows": 232
+    },
+    {
+      "path": "data/timing/inputs/f8c6r15.jsonl.gz",
+      "rows": 353
+    },
+    {
+      "path": "data/timing/inputs/f8c6r20.jsonl.gz",
+      "rows": 418
+    },
+    {
+      "path": "data/timing/inputs/f8c6r25.jsonl.gz",
+      "rows": 568
+    },
+    {
+      "path": "data/timing/inputs/f8c6r30.jsonl.gz",
+      "rows": 651
+    },
+    {
+      "path": "data/timing/inputs/f10c2r10.jsonl.gz",
+      "rows": 268
+    },
+    {
+      "path": "data/timing/inputs/f10c2r15.jsonl.gz",
+      "rows": 343
+    },
+    {
+      "path": "data/timing/inputs/f10c2r20.jsonl.gz",
+      "rows": 367
+    },
+    {
+      "path": "data/timing/inputs/f10c2r25.jsonl.gz",
+      "rows": 381
+    },
+    {
+      "path": "data/timing/inputs/f10c2r30.jsonl.gz",
+      "rows": 408
+    },
+    {
+      "path": "data/timing/inputs/f10c3r10.jsonl.gz",
+      "rows": 269
+    },
+    {
+      "path": "data/timing/inputs/f10c3r15.jsonl.gz",
+      "rows": 413
+    },
+    {
+      "path": "data/timing/inputs/f10c3r20.jsonl.gz",
+      "rows": 462
+    },
+    {
+      "path": "data/timing/inputs/f10c3r25.jsonl.gz",
+      "rows": 528
+    },
+    {
+      "path": "data/timing/inputs/f10c3r30.jsonl.gz",
+      "rows": 546
+    },
+    {
+      "path": "data/timing/inputs/f10c4r10.jsonl.gz",
+      "rows": 305
+    },
+    {
+      "path": "data/timing/inputs/f10c4r15.jsonl.gz",
+      "rows": 437
+    },
+    {
+      "path": "data/timing/inputs/f10c4r20.jsonl.gz",
+      "rows": 509
+    },
+    {
+      "path": "data/timing/inputs/f10c4r25.jsonl.gz",
+      "rows": 594
+    },
+    {
+      "path": "data/timing/inputs/f10c4r30.jsonl.gz",
+      "rows": 683
+    },
+    {
+      "path": "data/timing/inputs/f10c5r10.jsonl.gz",
+      "rows": 310
+    },
+    {
+      "path": "data/timing/inputs/f10c5r15.jsonl.gz",
+      "rows": 419
+    },
+    {
+      "path": "data/timing/inputs/f10c5r20.jsonl.gz",
+      "rows": 547
+    },
+    {
+      "path": "data/timing/inputs/f10c5r25.jsonl.gz",
+      "rows": 659
+    },
+    {
+      "path": "data/timing/inputs/f10c5r30.jsonl.gz",
+      "rows": 708
+    },
+    {
+      "path": "data/timing/inputs/f10c6r10.jsonl.gz",
+      "rows": 300
+    },
+    {
+      "path": "data/timing/inputs/f10c6r15.jsonl.gz",
+      "rows": 462
+    },
+    {
+      "path": "data/timing/inputs/f10c6r20.jsonl.gz",
+      "rows": 574
+    },
+    {
+      "path": "data/timing/inputs/f10c6r25.jsonl.gz",
+      "rows": 666
+    },
+    {
+      "path": "data/timing/inputs/f10c6r30.jsonl.gz",
+      "rows": 755
+    },
+    {
+      "path": "data/timing/inputs/f12c2r10.jsonl.gz",
+      "rows": 303
+    },
+    {
+      "path": "data/timing/inputs/f12c2r15.jsonl.gz",
+      "rows": 368
+    },
+    {
+      "path": "data/timing/inputs/f12c2r20.jsonl.gz",
+      "rows": 398
+    },
+    {
+      "path": "data/timing/inputs/f12c2r25.jsonl.gz",
+      "rows": 736
+    },
+    {
+      "path": "data/timing/inputs/f12c2r30.jsonl.gz",
+      "rows": 1061
+    },
+    {
+      "path": "data/timing/inputs/f12c3r10.jsonl.gz",
+      "rows": 321
+    },
+    {
+      "path": "data/timing/inputs/f12c3r15.jsonl.gz",
+      "rows": 445
+    },
+    {
+      "path": "data/timing/inputs/f12c3r20.jsonl.gz",
+      "rows": 512
+    },
+    {
+      "path": "data/timing/inputs/f12c3r25.jsonl.gz",
+      "rows": 540
+    },
+    {
+      "path": "data/timing/inputs/f12c3r30.jsonl.gz",
+      "rows": 537
+    },
+    {
+      "path": "data/timing/inputs/f12c4r10.jsonl.gz",
+      "rows": 350
+    },
+    {
+      "path": "data/timing/inputs/f12c4r15.jsonl.gz",
+      "rows": 485
+    },
+    {
+      "path": "data/timing/inputs/f12c4r20.jsonl.gz",
+      "rows": 588
+    },
+    {
+      "path": "data/timing/inputs/f12c4r25.jsonl.gz",
+      "rows": 668
+    },
+    {
+      "path": "data/timing/inputs/f12c4r30.jsonl.gz",
+      "rows": 694
+    },
+    {
+      "path": "data/timing/inputs/f12c5r10.jsonl.gz",
+      "rows": 329
+    },
+    {
+      "path": "data/timing/inputs/f12c5r15.jsonl.gz",
+      "rows": 532
+    },
+    {
+      "path": "data/timing/inputs/f12c5r20.jsonl.gz",
+      "rows": 676
+    },
+    {
+      "path": "data/timing/inputs/f12c5r25.jsonl.gz",
+      "rows": 723
+    },
+    {
+      "path": "data/timing/inputs/f12c5r30.jsonl.gz",
+      "rows": 781
+    },
+    {
+      "path": "data/timing/inputs/f12c6r10.jsonl.gz",
+      "rows": 386
+    },
+    {
+      "path": "data/timing/inputs/f12c6r15.jsonl.gz",
+      "rows": 516
+    },
+    {
+      "path": "data/timing/inputs/f12c6r20.jsonl.gz",
+      "rows": 661
+    },
+    {
+      "path": "data/timing/inputs/f12c6r25.jsonl.gz",
+      "rows": 785
+    },
+    {
+      "path": "data/timing/inputs/f12c6r30.jsonl.gz",
+      "rows": 862
+    }
+  ]
+}

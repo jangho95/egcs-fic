@@ -1,0 +1,6 @@
+seed	episode	validation_awt	path
+86000	3600	22.952265187227727	data/learning/final/model-86000/checkpoint-3600.bin
+86001	720	23.21531401152998	data/learning/final/model-86001/checkpoint-720.bin
+86002	1620	22.857347390958331	data/learning/final/model-86002/checkpoint-1620.bin
+86003	3420	23.231997974663425	data/learning/final/model-86003/checkpoint-3420.bin
+86004	3420	23.338254979606901	data/learning/final/model-86004/checkpoint-3420.bin

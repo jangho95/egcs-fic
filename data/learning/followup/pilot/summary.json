@@ -1,0 +1,1 @@
+{"episodes":36,"seconds":13.539739267999996,"mean_episode_seconds":0.37610386855555544,"transitions":90726,"updates":11216,"failed_episodes":0,"last_loss":0.0008261412183294316,"last_gradient":0.011631352065950088,"max_abs_q":1.180741273342038,"same_time_transitions":73384,"terminal_transitions":36}
